@@ -37,7 +37,6 @@ Invoke-Command -ComputerName $ComputerName -Credential $Credential -ArgumentList
             "HKLM:\SYSTEM\CurrentControlSet\services\CmRcService",
             "HKLM:\SOFTWARE\Microsoft\CCM",
             "HKLM:\SOFTWARE\Microsoft\CCMSetup",
-            "HKLM:\SOFTWARE\Microsoft\SMS",
             "C:\Windows\CCM",
             "C:\Windows\ccmsetup",
             "C:\Windows\ccmcache",
